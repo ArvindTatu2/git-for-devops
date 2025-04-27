@@ -1,10 +1,11 @@
-1. Initialize Git Repository   
+Git Commands
+1. Initialize Git Repository
 git init # Initialize a new Git repository
 
-3. Check Current Status
+2. Check Current Status
 git status # See changes staged, unstaged, and untracked files
 
-4. Add Files to Staging Area
+3. Add Files to Staging Area
 git add nibbi.txt # Stage nibbi.txt for commit
 
 git add nibba.txt # Stage nibba.txt for commit
@@ -45,5 +46,3 @@ git checkout master # Switch back to 'master' branch
 
 git checkout dev # Switch to 'dev' branch
 
-8. Common Typing Mistakes (Ignore)
-git cimmit -m "adding changes to nibbi" # Typo: should be git commit
