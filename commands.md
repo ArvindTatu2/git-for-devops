@@ -1,5 +1,4 @@
-1. Initialize Git Repository
-   
+1. Initialize Git Repository   
 git init # Initialize a new Git repository
 
 3. Check Current Status
